@@ -3,7 +3,10 @@
 Employee Tracker is a CLI applicaiton for building and maintaining companies employee data base. Built on MySQL and leveraging modularity in the structure of Employee Tracker, it can scale appropriatley with a companies growth without reconfiguring the core structure of the internal employee data base. This application can act as a foundation to continue to build upon. Employee allows managers or someone within the company to view all employees, roles, as well as departments. It also allows for adding employees, roles, departments and updating employees all from your CLI.
 
 ## Demo
-C:\Users\taghisx1\Desktop\Bootcamp\SQL-Employee-Tracker\img
+
+![employee-tracker-sec](https://github.com/ShivaTagh/SQL-Employee-Tracker/assets/127795324/f1a04f3c-df08-4531-a36f-4d745067a824)
+
+
 ## Instructions:
 
 Use the MySQL NPM package to connect to your MySQL database and perform queries.
